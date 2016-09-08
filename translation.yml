@@ -20,7 +20,7 @@ management:
 
 ---
 spring:
-    profiles: dev
+    profiles: qa1
     data:
         mysql:
             database: db_host
